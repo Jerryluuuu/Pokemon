@@ -1,8 +1,8 @@
 #### Preamble ####
 # Purpose: Simulates an analysis dataset about Pokemon level and weaknesses.
-# Author: Jimmy Luc
+# Author: Jerry Lu
 # Date: 26 March 2024
-# Contact: jimmy.luc@mail.utoronto.ca
+# Contact: jerry33692@gmail.com
 # License: MIT
 # Pre-requisites: -
 # Any other information needed? -
